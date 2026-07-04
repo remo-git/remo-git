@@ -13,16 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi I'm Remigiusz 👋
-I love to build 2D games.
-I have no problem with 3D too 😉
 
-🌍 Poland
-🚀 GameDev
+🎮 Indie Game Developer from Poland
+
+- 🇵🇱 Based in Poland
+- 🎮 Focused on gameplay programming
+- 🧠 Learning graphics programming and engine architecture
+- 💡 Dream: build my own game engine
 
 ## What am I working on ❓
 
-I'm working on my own 2D top-down game.
-I make it from scratch in unity (6) based only on my experience.
+I'm currently developing my own 2D top-down, pixel-art game in Unity 6.
+Everything is built from scratch to help me improve my game development skills.
+I use a mix of ready-made assets and assets I create myself.
 
 ## Tech Stack
 
@@ -32,10 +35,10 @@ I make it from scratch in unity (6) based only on my experience.
 
 ## Used Tools
 
-I used to work in INTELIJ IDE but for now, I use VS Code 2026 as a editor.
-To make games I use Unity Engine but I prepare my self to build my own game engine.
+I used to use IntelliJ IDEA, but for now I use VS Code 2026 as a editor.
+To make games I use Unity Engine but I'm preparing myself to build my own game engine.
 
 ## Additional info
 
-Unfortunately I have no experience in game dev studios expect my own 😔
+Unfortunately I have no experience in game dev studios except for my own 😔
 BUT! It can't stop me from creating games, making game assets and other stuff 💪
