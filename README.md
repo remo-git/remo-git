@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 I'm currently developing my own 2D top-down, pixel-art game in Unity 6.
 Everything is built from scratch to help me improve my game development skills.
 I use a mix of ready-made assets and assets I create myself.
+The goal is to learn how modern game engines work by implementing every major system myself (and release the game ofc).
 
 ## Tech Stack
 
@@ -35,8 +36,15 @@ I use a mix of ready-made assets and assets I create myself.
 
 ## Used Tools
 
-I used to use IntelliJ IDEA, but for now I use VS Code 2026 as a editor.
-To make games I use Unity Engine but I'm preparing myself to build my own game engine.
+- Intelij IDEA
+- Visual Studio Code 2026
+- Unity Engine
+
+## 🎯 Goals
+
+- Build my own engine one day
+- Improve graphics programming skills
+- Release my own commercial game
 
 ## Additional info
 
