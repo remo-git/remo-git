@@ -33,6 +33,7 @@ The goal is to learn how modern game engines work by implementing every major sy
 - C#
 - .NET
 - JAVA
+- MySQL
 
 ## 🔨 Used Tools
 
