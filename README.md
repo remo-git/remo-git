@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi I'm Remigiusz 👋
+# 👋 Hi I'm Remigiusz
 
 🎮 Indie Game Developer from Poland
 
@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 - 🧠 Learning graphics programming and engine architecture
 - 💡 Dream: build my own game engine
 
-## What am I working on ❓
+## 🚀 What am I working on
 
 I'm currently developing my own 2D top-down, pixel-art game in Unity 6.
 Everything is built from scratch to help me improve my game development skills.
 I use a mix of ready-made assets and assets I create myself.
 The goal is to learn how modern game engines work by implementing every major system myself (and release the game ofc).
 
-## Tech Stack
+## 💻 Tech Stack
 
 - C#
 - .NET
 - JAVA
 
-## Used Tools
+## 🔨 Used Tools
 
 - Intelij IDEA
 - Visual Studio Code 2026
@@ -46,7 +46,7 @@ The goal is to learn how modern game engines work by implementing every major sy
 - Improve graphics programming skills
 - Release my own commercial game
 
-## Additional info
+### Additional info
 
 Unfortunately I have no experience in game dev studios except for my own 😔
 BUT! It can't stop me from creating games, making game assets and other stuff 💪
